@@ -1,0 +1,27 @@
+h1 {
+   color: #841F27;
+   
+}
+p  {
+    font-size: 23px;
+    font-weight: light;
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(77, 2, 100);
+    border-width: 21 px;
+    border-style: solid;
+    border-color: blue;
+    padding: 50px 50px;
+    margin: 30px;
+    background-color: gold;
+    }
+p.special {
+    background-color: cyan;
+    }
+#very_special {
+    color: red;
+    }
+    .warblegarf {
+        color: green;
+    }
